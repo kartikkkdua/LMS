@@ -1,0 +1,46 @@
+
+
+/* CourseList.js */
+.course-list {
+  list-style: none;
+  padding: 0;
+}
+
+.course-item {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.course-item:hover {
+  background-color: #f0f0f0;
+}
+
+/* CourseDetail.js */
+.course-detail {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.course-detail h2 {
+  margin-top: 0;
+}
+
+.course-detail p {
+  margin-bottom: 10px;
+}
+
+.course-detail button {
+  padding: 8px 16px;
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+.course-detail button:hover {
+  background-color: #0056b3;
+}
